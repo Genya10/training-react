@@ -1,7 +1,8 @@
-.App{
+
+.todolistMain{
   display: flex;
-  align-items: center;
   padding: 30px;
   gap:50px;
   
 }
+
